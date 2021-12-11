@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shaggy_green.png">
+	<SubTexture name="b_Down0000" x="0" y="0" width="603" height="972" frameX="0" frameY="-3" frameWidth="603" frameHeight="1014"/>
+	<SubTexture name="b_Idle0000" x="603" y="0" width="526" height="1194" frameX="0" frameY="-3" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0001" x="1129" y="0" width="526" height="1194" frameX="0" frameY="-3" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0002" x="1655" y="0" width="521" height="1183" frameX="-2" frameY="-9" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0003" x="2176" y="0" width="521" height="1183" frameX="-2" frameY="-9" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0004" x="0" y="1183" width="515" height="1187" frameX="-12" frameY="0" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0005" x="0" y="1183" width="515" height="1187" frameX="-12" frameY="0" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0006" x="1655" y="1183" width="504" height="1173" frameX="-11" frameY="-21" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0007" x="2159" y="1183" width="504" height="1173" frameX="-11" frameY="-21" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0008" x="2697" y="0" width="505" height="1154" frameX="-12" frameY="-34" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Idle0009" x="2697" y="0" width="505" height="1154" frameX="-12" frameY="-34" frameWidth="527" frameHeight="1197"/>
+	<SubTexture name="b_Left0000" x="515" y="2356" width="747" height="1042" frameX="0" frameY="-4" frameWidth="747" frameHeight="1081"/>
+	<SubTexture name="b_Right0000" x="1262" y="2356" width="748" height="974" frameX="0" frameY="0" frameWidth="748" frameHeight="988"/>
+	<SubTexture name="b_Up0000" x="2697" y="1154" width="498" height="1325" frameX="0" frameY="0" frameWidth="522" frameHeight="1325"/>
+</TextureAtlas>
