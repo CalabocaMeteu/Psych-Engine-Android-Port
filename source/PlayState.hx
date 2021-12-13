@@ -74,16 +74,16 @@ class PlayState extends MusicBeatState
 
 	public static var instance:PlayState;
 	public static var ratingStuff:Array<Dynamic> = [
-		['Vai Perde!', 0.2], //From 0% to 19%
+		['Desiste!!', 0.2], //From 0% to 19%
 		['Merda', 0.4], //From 20% to 39%
-		['Mal', 0.5], //From 40% to 49%
-		['Nu', 0.6], //From 50% to 59%
-		['ta', 0.69], //From 60% to 68%
-		['Bom!', 0.7], //69%
-		['Otimo', 0.8], //From 70% to 79%
-		['Muito Massa!', 0.9], //From 80% to 89%
-		['Perfeito!', 1], //From 90% to 99%
-		['INCRIVEL!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
+		['Ruim', 0.5], //From 40% to 49%
+		['Bruh', 0.6], //From 50% to 59%
+		['Meh', 0.69], //From 60% to 68%
+		['agradável', 0.7], //69%
+		['Bom', 0.8], //From 70% to 79%
+		['Excelente', 0.9], //From 80% to 89%
+		['Incrivel!', 1], //From 90% to 99%
+		['Perfeito!!', 1] //The value on this one isn't used actually, since Perfect is always "1"
 	];
 	
 	#if (haxe >= "4.0.0")
